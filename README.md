@@ -6,4 +6,6 @@ xterm.js is a terminal but codium.js is an editor
 - [ ] when you hover your mouse somewhere, have a slightly transparent cursor where it will drop if you click
 - [ ] smooth cursor like in office 2013 xd
 - [ ] multiplayer like liveshare
+- [ ] togglable tabs/whitespace showing
+- [ ] configurable everything
 - more
